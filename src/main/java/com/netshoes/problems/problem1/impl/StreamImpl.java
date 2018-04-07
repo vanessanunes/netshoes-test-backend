@@ -11,6 +11,7 @@ public class StreamImpl implements Stream {
     // Nao alterar esse construtor!
     public StreamImpl(String stream) {
         // TODO sua implementacao! Fique a vontade para criar suas classes/interfaces caso julgue necessario.
+    	
     }
 
     @Override
